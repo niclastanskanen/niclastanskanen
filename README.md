@@ -11,7 +11,7 @@ I study **Full Stack** Software Development with an **Advanced Front-End** skill
 
 ----
 
-## Development of **Front-End** applications and key UX techniques
+## Development of **Front-End** applications and UX techniques
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,py,react)](https://skills.thijs.gg)
 
