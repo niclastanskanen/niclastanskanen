@@ -26,9 +26,9 @@ The ability to access databases, test code, and work with agile development team
 
 ----
 
-## ![github](https://github.com/niclastanskanen?tab=repositories)
+## ![github](https://skills.thijs.gg/icons?i=github)
 
-![Most Used Languages](https://skills.thijs.gg/icons?i=github)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=niclastanskanen&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 
 
