@@ -30,7 +30,9 @@ The ability to access databases, test code, and work with agile development team
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=niclastanskanen&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
+----
 
+[![@niclastanskanen's Holopin board](https://holopin.me/niclastanskanen)](https://holopin.io/@niclastanskanen)
 
 
 
