@@ -3,33 +3,48 @@
 
 I study **Full Stack** Software Development with an **Advanced Front-End** skill path at [Code Institute](https://codeinstitute.net/) 
 
-
-[![linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/niclastanskanen/)
-[![discord](https://skills.thijs.gg/icons?i=discord)](https://discord.com/users/benyah#9490)
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/niclastanskanen/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="[https://www.linkedin.com/in/niclastanskanen/](https://discord.com/users/benyah#9490)">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 
 ----
 
 ## Development of **Front-End** applications and UX techniques
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,py,react)](https://skills.thijs.gg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+  </a>
+</p>
 
 -----
 
 
 ## A complete set of modules for the **Full Stack** toolkit
 
-The ability to access databases, test code, and work with agile development teams
+<p align="center">The ability to access databases, test code, and work with agile development teams</p>
 
-[![My Skills](https://skills.thijs.gg/icons?i=django,bootstrap,jquery,postgres,jest,nodejs,flask)](https://skills.thijs.gg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,jquery,postgres,jest,nodejs,flask" />
+  </a>
+</p>
 
 ----
 
-## [![github](https://skills.thijs.gg/icons?i=github)](https://github.com/niclastanskanen?tab=repositories)
+<p align="center">My Repositories</p>
+<p align="center">
+  <a href="[https://skillicons.dev](https://github.com/niclastanskanen?tab=repositories)">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=niclastanskanen&show_icons=true&locale=en&layout=compact&theme=tokyonight) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niclastanskanen&show_icons=true&theme=tokyonight)
-
 
 ----
 
