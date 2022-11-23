@@ -47,7 +47,8 @@ I study **Full Stack** Software Development with an **Advanced Front-End** skill
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=niclastanskanen&show_icons=true&locale=en&layout=compact&theme=tokyonight) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niclastanskanen&show_icons=true&theme=tokyonight)
 
 ----
-<img src=""https://api.eu.badgr.io/public/assertions/BpMk9VAySY24-ytOxS8H-w?identity__email=niclastanskanen%40hotmail.com" />
+
+![Hackaton](https://api.eu.badgr.io/public/assertions/BpMk9VAySY24-ytOxS8H-w?identity__email=niclastanskanen%40hotmail.com)
 
 [![@niclastanskanen's Holopin board](https://holopin.me/niclastanskanen)](https://holopin.io/@niclastanskanen)
 
