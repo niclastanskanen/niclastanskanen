@@ -47,7 +47,7 @@ I study **Full Stack** Software Development with an **Advanced Front-End** skill
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=niclastanskanen&show_icons=true&locale=en&layout=compact&theme=tokyonight) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niclastanskanen&show_icons=true&theme=tokyonight)
 
 ----
-
+<iframe src="https://api.eu.badgr.io/public/assertions/BpMk9VAySY24-ytOxS8H-w?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=niclastanskanen%40hotmail.com" title="Badge: November 2022 Hackathon: Participant" style="width: 330px; height: 191px; border: 0px;"></iframe>
 [![@niclastanskanen's Holopin board](https://holopin.me/niclastanskanen)](https://holopin.io/@niclastanskanen)
 
 
