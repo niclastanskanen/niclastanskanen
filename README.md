@@ -31,7 +31,7 @@ I study **Full Stack** Software Development with an **Advanced Front-End** skill
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,jquery,postgres,jest,nodejs,flask" />
+    <img src="https://skillicons.dev/icons?i=py,django,jquery,postgres,jest,nodejs,flask,mysql,heroku,git" />
   </a>
 </p>
 
