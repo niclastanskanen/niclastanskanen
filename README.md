@@ -1,7 +1,7 @@
-# Hey, I'm Niclas :grin: I like ![coffee](https://skills.thijs.gg/icons?i=coffeescript)
+# Hey, I'm Niclas :grin:
 
 
-I study **Full Stack** Software Development with an **Advanced Front-End** skill path at [Code Institute](https://codeinstitute.net/) 
+<p align="center">Junior Full Stack Software Development HTML | CSS | JavaScript | Node.js | Python | Django | React.js</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niclastanskanen/">
