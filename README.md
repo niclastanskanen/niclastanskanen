@@ -18,7 +18,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
   </a>
 </p>
 
@@ -31,7 +36,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,jquery,postgres,jest,nodejs,flask,mysql,heroku,git" />
+    <img src="https://skillicons.dev/icons?i=py,django,jquery,postgres,jest,nodejs,flask,mysql" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=heroku,git" />
   </a>
 </p>
 
