@@ -12,7 +12,7 @@
 
 ----
 
-### Development of **Front-End** applications and UX techniques
+<h2 align="center">Development of Front-End applications and UX techniques</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@
 -----
 
 
-## A complete set of modules for the **Full Stack** toolkit
+<h2 align="center">A complete set of modules for the Full Stack toolkit</h2>
 
 <p align="center">The ability to access databases, test code, and work with agile development teams</p>
 
