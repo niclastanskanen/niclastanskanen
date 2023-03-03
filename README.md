@@ -54,11 +54,11 @@
 <h2 align="center">Licenses & certifications</h2>
 
 <p align="center">
-  <a href="https://certificate.jsmastery.pro/verify/f3f3086f2013">
+  <a href="https://certificate.jsmastery.pro/verify/f3f3086f2013" target="_blank">
     JavaScript Mastery - React Mastery Course
   </a>
   <br>
-  <a href="https://www.freecodecamp.org/certification/NiclasTanskanen/responsive-web-design">
+  <a href="https://www.freecodecamp.org/certification/NiclasTanskanen/responsive-web-design" target="_blank">
     freeCodeCamp.org - Responsive Web Design
   </a>
 </p>
@@ -66,17 +66,17 @@
 ----
 
 <p align=center>
-  <a href="https://api.eu.badgr.io/public/assertions/Pbo2YfhmTHK9DhHSsaAdkw?identity__email=niclastanskanen%40hotmail.com">
-    <img src="https://media.eu.badgr.com/uploads/badges/assertion-Pbo2YfhmTHK9DhHSsaAdkw.png" height="130" /> 
+  <a href="https://api.eu.badgr.io/public/assertions/Pbo2YfhmTHK9DhHSsaAdkw?identity__email=niclastanskanen%40hotmail.com" target="_blank">
+    <img src="https://media.eu.badgr.com/uploads/badges/assertion-Pbo2YfhmTHK9DhHSsaAdkw.png" alt="hackathon badge" height="130" /> 
   </a>
-    <a href="https://api.eu.badgr.io/public/assertions/7XK1LNZkSUGz4JjkyGl1gA?identity__email=niclastanskanen%40hotmail.com">
-    <img src="https://media.eu.badgr.com/uploads/badges/assertion-Pbo2YfhmTHK9DhHSsaAdkw.png" height="130" />
+    <a href="https://api.eu.badgr.io/public/assertions/7XK1LNZkSUGz4JjkyGl1gA?identity__email=niclastanskanen%40hotmail.com" target="_blank">
+    <img src="https://media.eu.badgr.com/uploads/badges/assertion-Pbo2YfhmTHK9DhHSsaAdkw.png" alt="hackathon badge" height="130" />
   </a>
-    <a href="https://api.eu.badgr.io/public/assertions/_-EqS_zWQFWeUcw7NsjXVQ?identity__email=niclastanskanen%40hotmail.com">
-    <img src="https://media.eu.badgr.com/uploads/badges/assertion-Pbo2YfhmTHK9DhHSsaAdkw.png" height="130" />
+    <a href="https://api.eu.badgr.io/public/assertions/_-EqS_zWQFWeUcw7NsjXVQ?identity__email=niclastanskanen%40hotmail.com" target="_blank">
+    <img src="https://media.eu.badgr.com/uploads/badges/assertion-Pbo2YfhmTHK9DhHSsaAdkw.png" alt="hackathon badge" height="130" />
   </a>
-    <a href="https://api.eu.badgr.io/public/assertions/BpMk9VAySY24-ytOxS8H-w?identity__email=niclastanskanen%40hotmail.com">
-    <img src="https://media.eu.badgr.com/uploads/badges/assertion-Pbo2YfhmTHK9DhHSsaAdkw.png" height="130" />
+    <a href="https://api.eu.badgr.io/public/assertions/BpMk9VAySY24-ytOxS8H-w?identity__email=niclastanskanen%40hotmail.com" target="_blank">
+    <img src="https://media.eu.badgr.com/uploads/badges/assertion-Pbo2YfhmTHK9DhHSsaAdkw.png" alt="hackathon badge" height="130" />
   </a>
 </p>
 
