@@ -1,13 +1,18 @@
-<h1 align="center">Hey 👋, I'm Niclas :grin:</h1>
+<h1 align="center">Hi 👋, I'm Niclas</h1>
 <h3 align="center">Junior Full Stack Software Developer Specializing In Front-End</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/niclastanskanen/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://discord.com/users/benyah#9490" />
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
+- 🔭 I’m currently working on **Meta Front-End Developer Professional Certificate**
+
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [https://tanskanen.me/](https://tanskanen.me/)
+
+- 📫 How to reach me **niclas@tanskanen.me**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/niclastanskanen" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="niclastanskanen" height="30" width="40" /></a>
+<a href="https://discord.gg/9490" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="9490" height="30" width="40" /></a>
 </p>
 
 ----
