@@ -19,7 +19,7 @@
 
 ----
 
-<h2 align="center">Development of Front-End applications and UX techniques</h2>
+<h3 align="center">Development of Front-End applications and UX techniques</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,20 +34,16 @@
 
 -----
 
-
-<h2 align="center">A complete set of modules for the Full Stack toolkit</h2>
-
-<p align="center">The ability to access databases, test code, and work with agile development teams</p>
-
+<h3 align="center">A complete set of modules for the Full Stack toolkit</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,jquery,postgres,jest,nodejs,flask,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,django,jquery,postgres,nodejs,flask" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=heroku,git" />
+    <img src="https://skillicons.dev/icons?i=heroku,git,jest" />
   </a>
 </p>
 
