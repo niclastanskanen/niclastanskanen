@@ -3,6 +3,8 @@
 
 - 🔎 I'm actively seeking a junior-level role in frontend or full-stack development
 
+- 🎓 I'm a <a href="https://codeinstitute.net/se/full-stack-software-development-diploma/" target="_blank">Code Institute</a> graduate with an Advanced Front-End and Full Stack Software Development diploma.
+
 - 🔭 I’m currently working on **Meta Front-End Developer Professional Certificate**
 
 - 🌱 I’m currently learning **React**
@@ -13,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/niclastanskanen" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="niclastanskanen" height="30" width="40" /></a>
-<a href="https://discord.gg/9490" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="9490" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/niclastanskanen" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="niclastanskanen" height="30" width="40" /></a>
+<a href="https://discord.gg/9490" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="9490" height="30" width="40" /></a>
 </p>
 
 <hr>
