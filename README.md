@@ -17,7 +17,7 @@
 <a href="https://discord.gg/9490" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="9490" height="30" width="40" /></a>
 </p>
 
-----
+<hr>
 
 <h3 align="center">Development of Front-End applications and UX techniques</h3>
 
@@ -32,7 +32,7 @@
   </a>
 </p>
 
------
+<hr>
 
 <h3 align="center">A complete set of modules for the Full Stack toolkit</h3>
 <p align="center">
@@ -47,16 +47,14 @@
   </a>
 </p>
 
-----
-
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=niclastanskanen&show_icons=true&locale=en&layout=compact&theme=tokyonight) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niclastanskanen&show_icons=true&theme=tokyonight)
-
-----
+<hr>
 
 <h2 align="center">Licenses & certifications</h2>
-
 <p align="center">
+    <a href="https://coursera.org/share/8277e118b7c6bc272b717b397d2f2170" target="_blank">
+    Meta Introduction to Front-End Development
+  </a>
+  <br>
   <a href="https://certificate.jsmastery.pro/verify/f3f3086f2013" target="_blank">
     JavaScript Mastery - React Mastery Course
   </a>
@@ -65,8 +63,6 @@
     freeCodeCamp.org - Responsive Web Design
   </a>
 </p>
-
-----
 
 <p align=center>
   <a href="https://api.eu.badgr.io/public/assertions/Pbo2YfhmTHK9DhHSsaAdkw?identity__email=niclastanskanen%40hotmail.com" target="_blank">
@@ -84,6 +80,8 @@
 </p>
 
 [![@niclastanskanen's Holopin board](https://holopin.me/niclastanskanen)](https://holopin.io/@niclastanskanen)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=niclastanskanen&show_icons=true&locale=en&layout=compact&theme=tokyonight) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niclastanskanen&show_icons=true&theme=tokyonight)
 
 
 
