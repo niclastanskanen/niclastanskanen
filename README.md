@@ -53,6 +53,10 @@
 
 <h2 align="center">Licenses & certifications</h2>
 <p align="center">
+      <a href="https://coursera.org/share/d75c551d28385807ff3c6a9193802903" target="_blank">
+    Meta Programming with JavaScript
+  </a>
+  <br>
     <a href="https://coursera.org/share/8277e118b7c6bc272b717b397d2f2170" target="_blank">
     Meta Introduction to Front-End Development
   </a>
