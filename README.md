@@ -52,23 +52,43 @@
 <hr>
 
 <h2 align="center">Licenses & certifications</h2>
-<p align="center">
-      <a href="https://coursera.org/share/d75c551d28385807ff3c6a9193802903" target="_blank">
-    Meta - Programming with JavaScript
+<ul>
+  <li>
+  Meta Front-End Developer Professional Certificate
+    <ul>
+      <li>
+      <a href="https://www.coursera.org/account/accomplishments/certificate/GLPRSQ5EX89R" target="_blank">
+    Programming with JavaScript
   </a>
-  <br>
-    <a href="https://coursera.org/share/8277e118b7c6bc272b717b397d2f2170" target="_blank">
-    Meta - Introduction to Front-End Development
-  </a>
-  <br>
+      </li>
+            <li>
+         <a href="https://www.coursera.org/account/accomplishments/certificate/4L97RLPT3S79" target="_blank">
+    HTML and CSS in depth
+          </a>
+      </li>
+            <li>
+         <a href="https://www.coursera.org/account/accomplishments/certificate/3GTTSHQZVVGE" target="_blank">
+    Version Control
+          </a>
+      </li>
+      <li>
+         <a href="https://www.coursera.org/account/accomplishments/certificate/GLPRSQ5EX89R" target="_blank">
+    Introduction to Front-End Development
+          </a>
+      </li>
+    </ul>
+  </li>
+  <li>
   <a href="https://certificate.jsmastery.pro/verify/f3f3086f2013" target="_blank">
     JavaScript Mastery - React Mastery Course
   </a>
-  <br>
+  </li>
+  <li>
   <a href="https://www.freecodecamp.org/certification/NiclasTanskanen/responsive-web-design" target="_blank">
     freeCodeCamp.org - Responsive Web Design
   </a>
-</p>
+  </li>
+  </ul>
 
 <p align=center>
   <a href="https://api.eu.badgr.io/public/assertions/Pbo2YfhmTHK9DhHSsaAdkw?identity__email=niclastanskanen%40hotmail.com" target="_blank">
