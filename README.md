@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Meta Front-End Developer Professional Certificate**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js with Express.js** & **MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://tanskanen.me/](https://tanskanen.me/)
 
