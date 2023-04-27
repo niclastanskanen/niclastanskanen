@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Node.js with Express.js** & **MongoDB**
 
+- 💻 I´m working on a Full-stack SaaS application with Stripe subscriptions
+
 - 👨‍💻 All of my projects are available at [https://tanskanen.me/](https://tanskanen.me/)
 
 - 📫 How to reach me **niclas@tanskanen.me**
