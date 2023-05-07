@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Meta Front-End Developer Professional Certificate**
 
-- 🌱 I’m currently learning **Node.js with Express.js** & **MongoDB**
+- 🌱 I’m currently learning **Next.js**
 
 - 💻 I´m working on a Full-stack SaaS application with Stripe subscriptions
 
