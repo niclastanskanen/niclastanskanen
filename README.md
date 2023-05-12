@@ -57,7 +57,7 @@
 <ul>
   <li>
   <a href="https://www.credential.net/93486d1f-6d88-4e43-ae37-3968020520d1" target="_blank">
-    Diploma in Full Stack Software Development (Advanced Front End)
+    Code Institute - Diploma in Full Stack Software Development (Advanced Front End)
   </a>
   </li>
   <li>
