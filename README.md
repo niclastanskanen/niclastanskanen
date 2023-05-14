@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Meta Front-End Developer Professional Certificate**
 
-- 🌱 I’m currently learning **Next.js** <a href="https://nextjs.org/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="30" width="40" /></a>
+- 🌱 I’m currently learning **NEXT.js** <a href="https://nextjs.org/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="30" width="40" /></a>
 
 - 💻 I´m working on a Full-stack SaaS application with Stripe subscriptions
 
