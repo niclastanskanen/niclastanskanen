@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/niclastanskanen" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="niclastanskanen" height="30" width="40" /></a>
-<a href="https://discord.gg/9490" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="9490" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/141633710733656064" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="9490" height="30" width="40" /></a>
 </p>
 
 <hr>
