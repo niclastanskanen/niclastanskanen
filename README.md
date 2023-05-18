@@ -103,6 +103,9 @@
   </ul>
 
 <p align=center>
+    <a href="https://api.eu.badgr.io/public/assertions/UdsJ7-NhRLCjCRHH5zrw2A?identity__email=niclastanskanen%40hotmail.com" target="_blank">
+    <img src="https://media.eu.badgr.com/uploads/badges/assertion-Pbo2YfhmTHK9DhHSsaAdkw.png" alt="hackathon badge" height="130" /> 
+  </a>
   <a href="https://api.eu.badgr.io/public/assertions/Pbo2YfhmTHK9DhHSsaAdkw?identity__email=niclastanskanen%40hotmail.com" target="_blank">
     <img src="https://media.eu.badgr.com/uploads/badges/assertion-Pbo2YfhmTHK9DhHSsaAdkw.png" alt="hackathon badge" height="130" /> 
   </a>
