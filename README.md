@@ -63,7 +63,12 @@
   <li>
   Meta Front-End Developer Professional Certificate
     <ul>
-            <li>
+        <li>
+      <a href="https://www.coursera.org/account/accomplishments/certificate/VJJ5NYVV264M" target="_blank">
+    Advanced React
+  </a>
+      </li>
+       <li>
       <a href="https://www.coursera.org/account/accomplishments/certificate/GLAWZGU2PQD2" target="_blank">
     React Basics
   </a>
