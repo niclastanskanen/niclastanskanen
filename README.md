@@ -27,12 +27,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,scss" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,scss,figma" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=heroku,git,jest" />
+    <img src="https://skillicons.dev/icons?i=heroku,git,jest,mongodb,nextjs" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@
   <li>
   <a href="https://www.credential.net/93486d1f-6d88-4e43-ae37-3968020520d1" target="_blank">
     Code Institute - Diploma in Full Stack Software Development (Advanced Front End)
-  </a>
+  </a> - Aug 2022 -> Apr 2023
   </li>
   <li>
   Meta Front-End Developer Professional Certificate
@@ -66,44 +66,44 @@
         <li>
       <a href="https://www.coursera.org/account/accomplishments/certificate/VJJ5NYVV264M" target="_blank">
     Advanced React
-  </a>
+          </a> - May 2023
       </li>
        <li>
       <a href="https://www.coursera.org/account/accomplishments/certificate/GLAWZGU2PQD2" target="_blank">
     React Basics
-  </a>
+  </a> - Apr 2023
       </li>
       <li>
       <a href="https://www.coursera.org/account/accomplishments/certificate/GLPRSQ5EX89R" target="_blank">
     Programming with JavaScript
-  </a>
+  </a> - Apr 2023
       </li>
             <li>
          <a href="https://www.coursera.org/account/accomplishments/certificate/4L97RLPT3S79" target="_blank">
     HTML and CSS in depth
-          </a>
+          </a> - Apr 2023
       </li>
             <li>
          <a href="https://www.coursera.org/account/accomplishments/certificate/3GTTSHQZVVGE" target="_blank">
     Version Control
-          </a>
+          </a> - Apr 2023
       </li>
       <li>
          <a href="https://www.coursera.org/account/accomplishments/certificate/GLPRSQ5EX89R" target="_blank">
     Introduction to Front-End Development
-          </a>
+          </a> - Mar 2023
       </li>
     </ul>
   </li>
   <li>
   <a href="https://certificate.jsmastery.pro/verify/f3f3086f2013" target="_blank">
     JavaScript Mastery - React Mastery Course
-  </a>
+  </a> - Feb 2023
   </li>
   <li>
   <a href="https://www.freecodecamp.org/certification/NiclasTanskanen/responsive-web-design" target="_blank">
     freeCodeCamp.org - Responsive Web Design
-  </a>
+  </a> - Feb 2023
   </li>
   </ul>
 
