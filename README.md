@@ -73,6 +73,11 @@
     React Basics
   </a> - Apr 2023
       </li>
+              <li>
+      <a href="https://www.coursera.org/account/accomplishments/certificate/KZ7QGGSD7MZZ" target="_blank">
+    Principles of UX/UI Design
+          </a> - May 2023
+      </li>
       <li>
       <a href="https://www.coursera.org/account/accomplishments/certificate/GLPRSQ5EX89R" target="_blank">
     Programming with JavaScript
