@@ -63,6 +63,11 @@
   <li>
   Meta Front-End Developer Professional Certificate
     <ul>
+      <li>
+      <a href="https://www.coursera.org/account/accomplishments/certificate/4Z5H8BW2Z74F" target="_blank">
+    Front-End Developer Capstone
+          </a> - Jun 2023
+      </li>
         <li>
       <a href="https://www.coursera.org/account/accomplishments/certificate/VJJ5NYVV264M" target="_blank">
     Advanced React
