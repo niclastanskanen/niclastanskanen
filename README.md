@@ -61,7 +61,9 @@
   </a> - Aug 2022 -> Apr 2023
   </li>
   <li>
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G3K2ZJPPT4GM" target="_blank">
   Meta Front-End Developer Professional Certificate
+     </a> - Mar 2023 -> Jun 2023                                                                                                          
     <ul>
       <li>
       <a href="https://www.coursera.org/account/accomplishments/certificate/4Z5H8BW2Z74F" target="_blank">
