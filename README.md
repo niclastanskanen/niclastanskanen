@@ -5,13 +5,11 @@
 
 - 🎓 I'm a <a href="https://codeinstitute.net/se/full-stack-software-development-diploma/" target="_blank">Code Institute</a> graduate with an Advanced Front-End and Full Stack Software Development diploma.
 
-- 🔭 I’m currently working on **Meta Front-End Developer Professional Certificate**
-
 - 🌱 I’m currently learning **NEXT.js** <a href="https://nextjs.org/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="30" width="40" /></a>
 
-- 💻 I´m working on a Full-stack SaaS application with Stripe subscriptions
+- 💻 I´m currently working on a **GitHub README Generator**
 
-- 👨‍💻 All of my projects are available at [https://tanskanen.me/](https://tanskanen.me/)
+- 👨‍💻 All of my projects are available at [https://niclastanskanen.com/](https://niclastanskanen.com/)
 
 - 📫 How to reach me **niclas@tanskanen.me**
 
