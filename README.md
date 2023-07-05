@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niclas</h1>
-<h3 align="center">Junior Full Stack Software Developer Specializing In Front-End</h3>
+<h3 align="center">Full Stack Software Developer Specializing In Front-End</h3>
 
-- 🔎 I'm actively seeking a junior-level role in frontend or full-stack development
+- 🔎 I'm actively seeking a role in frontend or full-stack development
 
 - 🎓 I'm a <a href="https://codeinstitute.net/se/full-stack-software-development-diploma/" target="_blank">Code Institute</a> graduate with an Advanced Front-End and Full Stack Software Development diploma.
 
