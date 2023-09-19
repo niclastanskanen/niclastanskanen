@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Niclas</h1>
 <h3 align="center">Full Stack Software Developer Specializing In Front-End</h3>
 
-- 🔎 I'm actively seeking a role in frontend or full-stack development
+- 💻 I´m currently working on a **Revam.tech** as a Full Stack Developer
 
 - 🎓 I'm a <a href="https://codeinstitute.net/se/full-stack-software-development-diploma/" target="_blank">Code Institute</a> graduate with an Advanced Front-End and Full Stack Software Development diploma.
 
 - 🌱 I’m currently learning **NEXT.js** <a href="https://nextjs.org/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="30" width="40" /></a>
 
-- 💻 I´m currently working on a **GitHub README Generator**
 
 - 👨‍💻 All of my projects are available at [https://niclastanskanen.com/](https://niclastanskanen.com/)
 
@@ -30,7 +29,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,scss,figma" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,scss,materialui,figma" />
   </a>
 </p>
 
@@ -45,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=heroku,git,jest,mongodb,nextjs" />
+    <img src="https://skillicons.dev/icons?i=heroku,git,jest,mongodb,nextjs,aws,graphql" />
   </a>
 </p>
 
