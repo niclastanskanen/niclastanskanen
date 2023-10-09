@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://niclastanskanen.com/](https://niclastanskanen.com/)
 
-- 📫 How to reach me **niclas@tanskanen.me**
+- 📫 How to reach me **niclastanskanen@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
