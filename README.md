@@ -7,9 +7,6 @@
 
 - 🌱 I’m currently learning **NEXT.js** <a href="https://nextjs.org/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="30" width="40" /></a>
 
-
-- 👨‍💻 All of my projects are available at [https://niclastanskanen.com/](https://niclastanskanen.com/)
-
 - 📫 How to reach me **niclastanskanen@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
