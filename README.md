@@ -35,13 +35,13 @@
 <h3 align="center">A complete set of modules for the Full Stack toolkit</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,jquery,postgres,nodejs,flask" />
+    <img src="https://skillicons.dev/icons?i=py,django,postgres,nodejs,nextjs" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=heroku,git,jest,mongodb,nextjs,aws,graphql" />
+    <img src="https://skillicons.dev/icons?i=heroku,git,mongodb,aws,graphql,firebase" />
   </a>
 </p>
 
