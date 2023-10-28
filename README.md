@@ -5,7 +5,7 @@
 
 - 🎓 I'm a <a href="https://codeinstitute.net/se/full-stack-software-development-diploma/" target="_blank">**Code Institute**</a> graduate with an Advanced Front-End and Full Stack Software Development diploma.
 
-- 🌱 I’m currently learning **NEXT.js** <a href="https://nextjs.org/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="30" width="40" /></a>
+- 🌱 I’m currently learning **NEXT.js** <a href="https://nextjs.org/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="30" width="40" /></a> with **Typescript** <img align="center" src="https://skillicons.dev/icons?i=typescript" alt="nextjs" height="30" width="40" />
 
 - 📫 How to reach me **niclastanskanen@hotmail.com**
 
