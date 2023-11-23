@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niclas</h1>
-<h3 align="center">Full Stack Developer | Next.js - React - JavaScript - Python - Django | Remote</h3>
+<h3 align="center">Full Stack Developer | Next.js - React - JavaScript - Python - Django</h3>
 
 - 💻 I´m currently working on <a href="https://revam.tech/" target="_blank">**Revam.tech**</a> as a Full Stack Developer
 
