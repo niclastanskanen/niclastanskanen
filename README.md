@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niclas</h1>
 <h3 align="center">Full Stack Developer | Next.js - React - JavaScript - Python - Django</h3>
 
-- 💻 I´m currently working on <a href="https://revam.tech/" target="_blank">**Revam.tech**</a> as a Full Stack Developer
+- 💻 I´m currently working on <a href="https://veylo.se" target="_blank">**Veylo AB**</a> as a Co-Founder & Full Stack Developer
 
 - 🎓 I'm a <a href="https://codeinstitute.net/se/full-stack-software-development-diploma/" target="_blank">**Code Institute**</a> graduate with an Advanced Front-End and Full Stack Software Development diploma.
 
