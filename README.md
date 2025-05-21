@@ -28,17 +28,9 @@ Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **fronte
 ---
 
 ## 💼 Projects right now
-### [Scan N Review](https://www.scannreview.com)  
-**SaaS Platform for QR-based Feedback:**  
-- QR code generation and customizable feedback forms  
-- Real-time analytics and AI-driven insights  
-
----
-
-## 🌱 What I'm Currently Working On  
-- Enhancing **Scan N Review** with features like Google and Trustpilot review integration  
-- Building an app to strengthen my portfolio and align with my passions  
-- Exploring **new React patterns** and **AI integrations**  
+### [Hello Nest](https://www.hellonest.se)  
+HelloNest is a next-generation M&A platform built to digitize and automate the process of buying and selling businesses. 
+Created by Eniro Group and Future Ventures, our mission is to make business transactions secure, simple, and efficient for small and medium-sized enterprises.
 
 ---
 
