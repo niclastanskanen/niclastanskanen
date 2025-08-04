@@ -1,41 +1,29 @@
-# 👋 Hi, I'm Niclas!  
+# Niclas Tanskanen
 
-Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **frontend development** and crafting engaging user experiences. With over 2.5 years of experience, primarily focused on **Next.js**, I love building scalable and maintainable web applications.  
-
----
-
-## 🚀 About Me  
-- 🌍 Based in **Uppsala, Sweden**  
-- 💻 Strong focus on **React**, **TypeScript**, and **Next.js**  
-- 🌟 Proficient in **frontend development** with expertise in responsive design, accessibility, and performance optimization  
-- 🔎 Interested in **sustainable tech** and building solutions that make an impact  
-- 🧠 Always learning and exploring new technologies  
+Fullstack Developer — building fast, scalable web apps with **Next.js**, **TypeScript**, and **Supabase**.
 
 ---
 
-## 🔧 Skills  
-
-### Languages & Frameworks  
-- **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js  
-- **Styling:** Tailwind CSS, CSS-in-JS, SCSS  
-- **Backend:** Node.js, MongoDB, Firebase, Supabase, Django  
-
-### Tools & Platforms  
-- **Cloud & Deployment:** AWS, Google Cloud, Vercel  
-- **Version Control:** Git, GitHub  
-- **Other Tools:** Docker, Postman, Figma  
+### 🧑‍💻 About
+- Based in **Uppsala, Sweden**
+- Passionate about clean code, fast shipping, and great developer experience
+- Working on products in M&A, SaaS, and automation
 
 ---
 
-## 💼 Projects right now
-### [Hello Nest](https://www.hellonest.se)  
-HelloNest is a next-generation M&A platform built to digitize and automate the process of buying and selling businesses. 
-Created by Eniro Group and Future Ventures, our mission is to make business transactions secure, simple, and efficient for small and medium-sized enterprises.
+### 🛠 Tech
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
+**Backend:** Supabase · PostgreSQL · Server Actions  
+**Tools:** Vercel · GitHub · Figma · Stripe
 
 ---
 
-## 📫 Let's Connect!  
-- **Email:** niclastanskanen@hotmail.com
-- **LinkedIn:** [Niclas LinkedIn](https://www.linkedin.com/in/niclastanskanen/)  
+### 🌐 Projects
+- [HelloNest.se](https://www.hellonest.se) — modern M&A platform for small and medium-sized businesses  
+- [Täckning](https://tackning.se) — simplifies M&A transactions with digital warranty insurance for business buyers and sellers
 
-Thanks for stopping by! Let's build something amazing together! 🚀  
+---
+
+### 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/niclastanskanen/)  
+- [niclastanskanen@hotmail.com](mailto:niclastanskanen@hotmail.com)
