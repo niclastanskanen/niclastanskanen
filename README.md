@@ -14,6 +14,7 @@ Fullstack Developer — building fast, scalable web apps with **Next.js**, **Typ
 ### 🛠 Tech
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS  
 **Backend:** Supabase · PostgreSQL · Server Actions  
+**AI & Automation:** OpenAI APIs · LLM pipelines · Data scraping & enrichment  
 **Tools:** Vercel · GitHub · Figma · Stripe
 
 ---
