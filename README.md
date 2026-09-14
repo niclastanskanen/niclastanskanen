@@ -1,6 +1,6 @@
 # Niclas Tanskanen
 
-**Software Engineer | Full-Stack & Applied AI at [Hackberry](https://www.hackberrybay.com/)**
+**Software Engineer | Full-Stack & Applied AI at [Hackberry](https://www.hackberry.se/)**
 
 I build apps, internal tools, and digital products — from architecture and implementation to production.
 
