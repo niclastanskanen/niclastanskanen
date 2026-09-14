@@ -1,30 +1,28 @@
 # Niclas Tanskanen
 
-Fullstack Developer — building fast, scalable web apps with **Next.js**, **TypeScript**, and **Supabase**.
+**Software Engineer | Full-Stack & Applied AI at [Hackberry](https://www.hackberrybay.com/)**
+
+I build apps, internal tools, and digital products — from architecture and implementation to production.
 
 ---
 
-### 🧑‍💻 About
-- Based in **Uppsala, Sweden**
-- Passionate about clean code, fast shipping, and great developer experience
-- Working on products in M&A, SaaS, and automation
+### 💼 Hackberry
+
+Consulting across full-stack development, AI/LLM, and serverless technologies.
+
+Working with **TypeScript, Next.js, React, APIs, PostgreSQL, AWS, and AI integrations** across internal and customer-facing products.
 
 ---
 
 ### 🛠 Tech
+
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS  
-**Backend:** Supabase · PostgreSQL · Server Actions  
-**AI & Automation:** OpenAI APIs · LLM pipelines · Data scraping & enrichment  
-**Tools:** Vercel · GitHub · Figma · Stripe
+**Backend:** Node.js · PostgreSQL · Supabase · APIs · Webhooks  
+**Cloud:** AWS · Vercel · Serverless  
+**AI:** Claude Code · OpenAI · LLMs · AI integrations
 
 ---
 
-### 🌐 Projects
-- [HelloNest.se](https://www.hellonest.se) — modern M&A platform for small and medium-sized businesses  
-- [Täckning](https://tackning.se) — simplifies M&A transactions with digital warranty insurance for business buyers and sellers
+### 📫
 
----
-
-### 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/niclastanskanen/)  
-- [niclastanskanen@hotmail.com](mailto:niclastanskanen@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/niclastanskanen/) · [Email](mailto:niclastanskanen@hotmail.com)
